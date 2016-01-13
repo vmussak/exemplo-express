@@ -1,0 +1,15 @@
+{
+  "name": "exemplo-express",
+  "version": "1.0.0",
+  "description": "Projeto para introdução ao Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Mussak <vinicius.mussak@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-load": "^1.1.15"
+  }
+}
